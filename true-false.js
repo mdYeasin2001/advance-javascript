@@ -6,7 +6,6 @@
 // false
 // NaN
 // ===================
-
 // truthy:
 // " ", "0", [], {}, "false" and others value
 
